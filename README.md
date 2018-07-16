@@ -11,20 +11,7 @@ Learning process in Data Science.
 
 ![]()
 
-## Participation
 
-Personal project in wich I participated as:
-
-* Game Designer.
-* Programer.
-
-## Installation
-
-Clone or download the project, you can play it using the unity editor or compiling it first.
-
-## Gameplay
-
-**IN DEVELOPMENT** shoot with mouse 1, move with wasd, rotate with Q and E,  do a barrel roll!..... by pressing Q 2 times.
 
 ## Contact
 
@@ -34,11 +21,11 @@ David Revilla:
   <img width="50" height="50" border="0" align="center"  src="twitter-logo.jpg"></a>
 <a href="https://www.linkedin.com/in/zolutr/" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="linkedin-logo.png"></a>
-  <a href="https://codepen.io/zltm/pen/gXbZbJ" target="_blank">
-  <img width="50" height="50" border="0" align="center"  src="codepen-logo.png"></a>
+
 
 * Write me to: jdavidrevillad@gmail.com
-* Look at my full [C.V](https://drive.google.com/drive/folders/0B9XODKe51qg8aFFXRE9aNE15QWc?usp=sharing)
+* Read [my blog](http://davidoverthinks.com/)
+* Look at [my full C.V](https://drive.google.com/drive/folders/0B9XODKe51qg8aFFXRE9aNE15QWc?usp=sharing)
 
 
 ## Legal
