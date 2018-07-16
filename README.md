@@ -1,10 +1,10 @@
 # ML_Basics
 > 
 
-[![Type](https://img.shields.io/badge/Type-Data__Science-FFAD40.svg)](https://github.com/ZLTM/ML_basics)
-[![Genre](https://img.shields.io/badge/Subject-MAchine__Learning-36D792.svg)](https://packagist.org/packages/phpunit/phpunit)
-[![State](https://img.shields.io/badge/State-In_Development-4F4FD9.svg)](https://packagist.org/packages/phpunit/phpunit)
-[![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![Type](https://img.shields.io/badge/Type-Data__Science-FF9200.svg)](https://github.com/ZLTM/ML_basics)
+[![Genre](https://img.shields.io/badge/Subject-MAchine__Learning-OOAF64.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![State](https://img.shields.io/badge/State-In_Development-1B1BB3.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![License](https://img.shields.io/badge/License-Apache%202--0-OB61A4.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
 Learning process in Data Science.
