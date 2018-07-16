@@ -1,9 +1,9 @@
 # ML_Basics
 > 
 
-[![Type](https://img.shields.io/badge/Type-Data__Science-BF8230.svg)](https://github.com/ZLTM/ML_basics)
-[![Genre](https://img.shields.io/badge/Genre-Sensation-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
-[![State](https://img.shields.io/badge/State-In%20Development-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![Type](https://img.shields.io/badge/Type-Data__Science-FFAD40.svg)](https://github.com/ZLTM/ML_basics)
+[![Genre](https://img.shields.io/badge/Subject-MAchine__Learning-36D792.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![State](https://img.shields.io/badge/State-In_Development-4F4FD9.svg)](https://packagist.org/packages/phpunit/phpunit)
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
